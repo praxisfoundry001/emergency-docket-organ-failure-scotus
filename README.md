@@ -48,6 +48,4 @@ The report pairs especially well with work on SCOTUS as an apex reflective organ
 
 The archival PDF is available through Zenodo:
 
-**DOI:** [ADD DOI AFTER ZENODO PUBLICATION]
-
-After publication, update this README with the final DOI link.
+**DOI:** https://doi.org/10.5281/zenodo.20680913
